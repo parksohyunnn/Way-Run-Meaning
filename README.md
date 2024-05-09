@@ -136,7 +136,7 @@ https://dlswl1993.dothome.co.kr
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/eedb740b-54b6-46a4-87f2-c738bb5702dd)
 <br>
 
-- 마이페이지 : 어떻게 디자인한건지 간략 설명(소현씨!)
+- 마이페이지 : 퍼즐형태와 일러스트/픽토그램을 통해 모바일 버전의 마이페이지 느낌을 주어 사용자의 손동작을 최소화하고 한눈에 사용자 정보를 전달
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/d658c72a-1b9d-4e0c-a298-44b37aec2735)
 <br>
 
