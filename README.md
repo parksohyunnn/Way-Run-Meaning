@@ -102,7 +102,7 @@ https://dlswl1993.dothome.co.kr
 <br><br>
 
 # 🛒 메뉴 및 사이트 맵 구성
-![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/a2f79720-88e9-44da-9a96-37656d4d2c61)
+![Frame 44](https://github.com/parksohyunnn/Way-Run-Meaning/assets/164127801/75a6d048-c18b-45bb-9dc6-64e0d5fd9038)
 - 대회 일정 공유
 - 마이페이지에 들어갈 뱃지,업적 시스템
 - 맞춤형 정보를 통해 쉬운 접근성 유도
