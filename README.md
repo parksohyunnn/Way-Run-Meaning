@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">
 <img width="1000" alt="image" src="https://github.com/parksohyunnn/Way-Run-Meaning/assets/164127801/416c3b72-b9d7-4a69-856e-7af66aab682c)">
 </div>
 
@@ -15,13 +15,14 @@
 3. 경쟁사 레퍼펀스
 4. 마라톤 시장 규모 조사
 5. 목표 타겟 설정
-6. 도메인 주소
-7. 네이밍 정의
-8. 로고 정의
-9. 디자인 컨셉
-10. 메뉴 및 사이트 맵 구성
-11. UI/UX 디자인
-12. 디자인 참고 레퍼런스
+6. 조별 스토리보드
+7. 도메인 주소
+8. 네이밍 정의
+9. 프로젝트 로고 및 캐릭터 정의
+10. 메인 디자인 컨셉
+11. 메뉴 및 사이트 맵 구성
+12. UI/UX 디자인
+13. 디자인 참고 레퍼런스 모음음
 <br><br>
 
 # ✒️ 프로젝트 제작 동기
@@ -66,8 +67,17 @@ http://marathon.pe.kr/index_fleemarket.html
 - 서브 고객 : 러닝에 관심은 있지만 시도하기 어려웠던 사람들
 <br><br>
 
+# 💦 조별 스토리보드
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/37e27219-b131-4df7-80fe-45413b868b87)
+
+- 마라톤이라는 컨셉에 맞게 컬러 선정부터 전반적인 디자인 틀과 컨셉 회의를 디자인보드 형식을 차용하여 진행
+- 현재 마라톤 웹사이트가 올드한 느낌이기 때문에 전체적인 분위기는 키치하게 진행하며, 우리만의 캐릭터와 로고 디자인을 만들기로 함
+- 컬러는 처음엔 '달리기'라는 느낌에 맞게 파란색으로 가기로 했으나, 키치함과 캐릭터의 분위기를 살리기 위해 쨍한 주황색의 컬러를 사용하기로 함
+- 다양한 레퍼런스의 웹사이트를 프린트하여 붙여가며 방향을 정하고, 포스트잇을 활용해 세부구성을 어떻게 할 지 디테일하게 적어가며 진행
+<br><br>
+
 # 👉 프로젝트 도메인 주소
-- (도메인 주소 링크)
+https://dlswl1993.dothome.co.kr
 <br><br>
 
 # 💡 프로젝트 네이밍 정의
@@ -76,20 +86,23 @@ http://marathon.pe.kr/index_fleemarket.html
 2. '무한도전' 정형돈의 유행어 중 하나인 웨이런미닛~ 이라는 밈에서 착안, 주 타겟이 2030인 만큼 연결되는 발음을 이용하여 재미요소를 담고자 함
 <br><br>
 
-# ✨ 프로젝트 로고 정의
-- 로고를 만들면 왜 이렇게 만들었는지 이미지랑 간략한 설명정도
+# ✨ 프로젝트 로고 및 캐릭터 정의
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/26ae4271-d2e8-4084-aac1-b4462e6b29aa)
+- 로고를 왜 이렇게 만들었는지랑 캐릭터 디자인 의미같은거 간략한 설명정도(소현씨!)
 <br><br>
 
-# 🖼️ 디자인 컨셉
-<strong>여기는 대충 이런 컬러와 폰트를 써서 어떤 느낌으로 진행할거다~ 하는 예시 정도로만 보여주고 디테일한 디자인은 아래 UI/UX 에 넣으면 될 듯</strong>
-- 컨셉 분위기 -> 왜 이런 컨셉을 잡았는지에 대한 간략한 부가 설명 필요
-- 주 컬러 / 서브 컬러 -> 해당 컬러 선정한 이유
-- 사용한 폰트
+# 🖼️ 메인 디자인 컨셉
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/586ce4ee-bead-4884-9e85-8ccd3820aff1)
+- 컨셉 분위기 -> 왜 이런 컨셉을 잡았는지에 대한 간략한 부가 설명 필요(소현씨!)
+<br>
+
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/c7c77895-9376-4f29-8e83-b0ac3cd7390f)
+- 주 컬러 / 서브 컬러 -> 해당 컬러 선정한 이유(소현씨!)
+- 사용한 폰트 이유(소현씨!)
 <br><br>
 
 # 🛒 메뉴 및 사이트 맵 구성
-![image](https://github.com/nicejmp1/Way-Run-Meaning/assets/163364733/64b388b7-f37f-419e-8b52-ea2ac6f93b80)
-
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/a2f79720-88e9-44da-9a96-37656d4d2c61)
 - 대회 일정 공유
 - 마이페이지에 들어갈 뱃지,업적 시스템
 - 맞춤형 정보를 통해 쉬운 접근성 유도
@@ -97,19 +110,30 @@ http://marathon.pe.kr/index_fleemarket.html
 - 기록 페이지로 지속적인 성취감과 동기부여
 <br><br>
 
-# 📌 구체적인 UI/UX 디자인
-- 회원가입 / 로그인 / 로그아웃 / 아이디 찾기 / 비밀번호 찾기
-- 메인 페이지
-- 카테고리 메뉴 -> 일정페이지 / 마이페이지 / 콘텐츠페이지 / 커뮤니티페이지
+# 📌 사이트 UI/UX 디자인 (진행중)
+- 로그인&회원가입 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/2029815c-024c-406e-995e-cd834990caa5)
+<br>
+
+- 아이디 찾기&비밀번호 찾기 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/eedb740b-54b6-46a4-87f2-c738bb5702dd)
+<br>
+
+- 마이페이지 : 어떻게 디자인한건지 간략 설명(소현씨!)
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/d658c72a-1b9d-4e0c-a298-44b37aec2735)
+<br>
+
+- 커뮤니티(게시판)페이지 : 공지사할부터 자유게시판, 크루모집. 랭킹확인까지 각 게시판마다 링크를 연결시켜 원하는 페이지를 사용할 수 있도록 UI/UX 디자인
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/f3d2d6ea-0962-4693-813d-bd2a526825ec)
 <br><br>
 
-# 🎨 디자인 참고 레퍼런스
-- 참고했던 디자인 웹사이트 / 폰트 / 컬러 그런거 다 때려박으면 될 듯
+# 🎨 참고 레퍼런스 모음
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/a0115195-1752-4c6f-a480-b328f57b8ad6)
+![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/eae1287d-0a70-4a37-afb5-81813fac34b8)
 
-# 💦 조별 스토리보드
-![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/37e27219-b131-4df7-80fe-45413b868b87)
 
-- 마라톤이라는 컨셉에 맞게 컬러 선정부터 전반적인 디자인 틀과 컨셉 회의를 디자인보드 형식을 차용하여 진행
-- 현재 마라톤 웹사이트가 올드한 느낌이기 때문에 전체적인 분위기는 키치하게 진행하며, 우리만의 캐릭터와 로고 디자인을 만들기로 함
-- 컬러는 처음엔 '달리기'라는 느낌에 맞게 파란색으로 가기로 했으나, 키치함과 캐릭터의 분위기를 살리기 위해 쨍한 주황색의 컬러를 사용하기로 함
-- 다양한 레퍼런스의 웹사이트를 프린트하여 붙여가며 방향을 정하고, 포스트잇을 활용해 세부구성을 어떻게 할 지 디테일하게 적어가며 진행
+
+
+
+
+  
