@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img width="1000" alt="image" src="https://github.com/parksohyunnn/Way-Run-Meaning/assets/164127801/416c3b72-b9d7-4a69-856e-7af66aab682c)">
 </div>
 
@@ -153,4 +153,4 @@ https://dlswl1993.dothome.co.kr
 
 
 
-  
+   -->
